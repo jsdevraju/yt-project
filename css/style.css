@@ -1,0 +1,70 @@
+
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700;800&display=swap');
+
+/* Reset Css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+/* Css Variable */
+:root{
+    --primary-color:#36b37e;
+    --hover-color:#29835c;
+    --heading-color:#212529;
+    --text-color:#94989a;
+    --white-color:#fff;
+    --primary-font:'Prompt', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p,span,input,button{
+    font-family: var(--primary-font);
+    font-weight: 500;
+}
+/* Default Styles */
+
+/* Navbar Styles Start Here */
+
+/* Navbar Styles Ends Here */
+
+/* Home Banner Styles Start Here */
+
+/* Home Banner Styles Ends Here */
+
+/* Features Client Start */
+
+/* Features Client Ends */
+
+/* About Start Here */
+
+/* About Start Ends */
+
+/* Service Start Here */
+
+/* Service Ends Here */
+
+/* Worldwide Start Here*/
+
+/* Worldwide Ends Here*/
+
+/* Challenging Project Start Here */
+
+/* Challenging Project Ends Here */
+
+/* Get Started Start Here */
+
+/* Get Started Ends Here */
+
+/* Testimonial Section Start Here */
+
+/* Testimonial Section Ends Here */
+
+/* Price Section Start Here */
+
+/* Price Section Ends Here */
+
+/* Contact Our Sales Start Here */
+
+/* Contact Our Sales Ends Here */
